@@ -1,0 +1,78 @@
+{
+     "combos": [
+        {
+
+        }
+    ],
+    "pizzas": [
+        {
+            "id": 0,
+            "name": "Pizza de Calabresa",
+            "image": "calabresa.jpg",
+            "image2": "pizza-1.png",
+            "description": "A classica pizza de calabresa. Perfeita para os indecisos que apenas querem comer uma boa pizza a noite.",
+            "ingredients": [
+                "Massa",
+                "Calabresa",
+                "Tomates",
+                "Cebolas",
+                "Queijos",
+                "Borda Crocante"
+            ],
+            "rate": 4,
+            "price": 25
+        },
+        {
+            "id": 1,
+            "name": "Pizza Italiana",
+            "image": "italiana.jpg",
+            "image2": "pizza-2.png",
+            "description": "Lorem ipsum dolor sit amet",
+            "ingredients": [
+                "Massa",
+                "Queijo Suiço",
+                "Queijo Quaio",
+                "Queio de Manteiga",
+                "Queijo de Mussarela",
+                "Borda Crocante"
+            ],
+            "rate": 5,
+            "price": 44
+        },
+        {
+            "id": 2,
+            "name": "Pizza Toscana",
+            "image": "toscana.jpg",
+            "image2": "pizza-3.png",
+            "description": "Mais clássica pizza para os indecisos. E também perfeita para aqueles que apenas querem comer uma boa pizza a noite.",
+            "ingredients": [
+                "Massa",
+                "Calabresa",
+                "Tomates",
+                "Cebolas",
+                "Queijos",
+                "Borda Crocante"
+            ],
+            "rate": 2,
+            "price": 32
+        },
+        {
+            "id": 3,
+            "name": "Pizza Carbonara",
+            "image": "carbonara.jpg",
+            "image2": "pizza-4.png",
+            "description": "A pizza perfeita se você tem 4 amigos ninjas esfomeados.",
+            "ingredients": [
+                "Massa",
+                "Calabresa",
+                "Tomates",
+                "Cebolas",
+                "Queijos",
+                "Borda Crocante"
+            ],
+            "rate": 3,
+            "price": 99
+        }
+    ]
+}
+
